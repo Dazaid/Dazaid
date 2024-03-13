@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo Cadenas</h1>
-<h3 align="center">An ambitious enthusiast beginner frontend developer(and artist too)</h3>
+<h3 align="center">An ambitious enthusiast beginner frontend developer (and artist too)</h3>
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazaid&show_icons=true&locale=en&layout=compact&theme=gruvbox&text_color=e33636&title_color=ffffff&html=ff2244&css=059eeb&js=059eeb" alt="dazaid" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=dazaid&show_icons=true&theme=gruvbox&text_color=e33636&title_color=ffffff&icon_color=ffffff" alt="dazaid" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazaid&show_icons=true&locale=en&layout=compact&theme=gruvbox&text_color=e33636&title_color=ffffff&html=ff2244&css=059eeb&js=059eeb&border_radius=5" alt="dazaid" />
+  <img alt="Coding" height="180em" src="https://cdn.discordapp.com/attachments/1196091202630582413/1217588111723466772/git.png?ex=6604924b&is=65f21d4b&hm=5eb244ac358bb4dd4aea38fdd500e0b5aaa8a8d08dff8e08488a899fa29d293c&">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=dazaid&show_icons=true&theme=gruvbox&text_color=e33636&title_color=ffffff&icon_color=ffffff&border_radius=5" alt="dazaid" />
 </div>
 <div align="center">
   <div>
@@ -15,20 +16,19 @@
 </div>
 <hr>
 </div>
-<h3 align="left">Connect with me:</h3>
-<div> 
-  <a href="https://www.youtube.com/@Dazai_Dazaint/streams" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/dazai.nt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:dazaink.dzk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-cadenas-b06338262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div style="display:flex">
+  <p><h3 align="left">Connect with me ---------------------------------------------------------------------------------------------- Support:</h3>
 </div>
+<div>
+  <a href="https://www.youtube.com/@Dazai_Dazaint/streams" target="_blank"><img height="40" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/dazai.nt/" target="_blank"><img height="40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/FJ4bFecAQT" target="_blank"><img height="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardo-cadenas-b06338262/" target="_blank"><img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://ko-fi.com/https://ko-fi.com/leonardocadenas"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="https://ko-fi.com/leonardocadenas" /></a>
+</div>
+<br><br>
+ 
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dazaid&theme=gruvbox&text_color=e33636&title_color=ffffff&icon_color=ffffff&border_radius=5" alt="dazaid" /></p>
+<br><br>
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://ko-fi.com/leonardocadenas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/leonardocadenas" /></a></p><br><br>
-
-<p><img margin="10px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dazaid&" alt="dazaid" /></p>
-
-  <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
