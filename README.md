@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo Cadenas</h1>
 <h3 align="center">An ambitious enthusiast beginner frontend developer(and artist too)</h3>
+<div align="center">
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazaid&show_icons=true&locale=en&layout=compact&theme=transparent&text_color=e33636&title_color=ed0e0e&html=ff2244&css=059eeb&scss=059eeb" alt="dazaid" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=dazaid&show_icons=true&theme=transparent&text_color=e33636&title_color=ed0e0e&icon_color=ffffff" alt="dazaid" />
+</div>
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazaid&label=Profile%20views&color=0e75b6&style=flat" alt="dazaid" /> </p>
@@ -14,8 +18,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/leonardocadenas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/leonardocadenas" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazaid&show_icons=true&locale=en&layout=compact" alt="dazaid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dazaid&show_icons=true&locale=en" alt="dazaid" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dazaid&" alt="dazaid" /></p>
+<p><img margin="10px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dazaid&" alt="dazaid" /></p>
