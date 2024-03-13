@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonardo Cadenas</h1>
 <h3 align="center">An ambitious enthusiast beginner frontend developer (and artist too)</h3>
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazaid&show_icons=true&locale=en&layout=compact&theme=gruvbox&text_color=e33636&title_color=ffffff&html=ff2244&css=059eeb&js=059eeb&border_radius=5" alt="dazaid" />
-  <img alt="Coding" height="180em" src="https://cdn.discordapp.com/attachments/1196091202630582413/1217588111723466772/git.png?ex=6604924b&is=65f21d4b&hm=5eb244ac358bb4dd4aea38fdd500e0b5aaa8a8d08dff8e08488a899fa29d293c&">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=dazaid&show_icons=true&theme=gruvbox&text_color=e33636&title_color=ffffff&icon_color=ffffff&border_radius=5" alt="dazaid" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazaid&show_icons=true&locale=en&layout=compact&theme=gruvbox&text_color=e33636&title_color=ffffff&html=ff2244&css=059eeb&js=059eeb&border_radius=5" alt="dazaid" />
+  <img alt="Coding" height="130em" src="https://cdn.discordapp.com/attachments/1196091202630582413/1217588111723466772/git.png?ex=6604924b&is=65f21d4b&hm=5eb244ac358bb4dd4aea38fdd500e0b5aaa8a8d08dff8e08488a899fa29d293c&">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dazaid&show_icons=true&theme=gruvbox&text_color=e33636&title_color=ffffff&icon_color=ffffff&border_radius=5" alt="dazaid" />
 </div>
 <div align="center">
   <div>
