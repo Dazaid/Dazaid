@@ -17,7 +17,7 @@
 <hr>
 </div>
 <div style="display:flex">
-  <p><h3 align="left">Connect with me ---------------------------------------------------------------------------------------------- Support:</h3>
+  <p><h3 align="left">Connect with me -------------------------------------------------------------------------------------- Support:</h3>
 </div>
 <div>
   <a href="https://www.youtube.com/@Dazai_Dazaint/streams" target="_blank"><img height="40" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
