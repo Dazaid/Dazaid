@@ -3,7 +3,7 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazaid&show_icons=true&locale=en&layout=compact&theme=gruvbox&text_color=e33636&title_color=ffffff&html=ff2244&css=059eeb&js=059eeb&border_radius=5" alt="dazaid" />
   <img alt="Coding" height="150em" src="https://cdn.discordapp.com/attachments/1196091202630582413/1217588111723466772/git.png?ex=6604924b&is=65f21d4b&hm=5eb244ac358bb4dd4aea38fdd500e0b5aaa8a8d08dff8e08488a899fa29d293c&">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dazaid&show_icons=true&theme=gruvbox&text_color=e33636&title_color=ffffff&icon_color=ffffff&border_radius=5" alt="dazaid" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=dazaid&theme=gruvbox&text_color=e33636&title_color=ffffff&icon_color=ffffff&border_radius=5" alt="dazaid" />
 </div>
 <div align="center">
   <div>
@@ -34,7 +34,3 @@
 </div>
 <br><br>
  
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dazaid&theme=gruvbox&text_color=e33636&title_color=ffffff&icon_color=ffffff&border_radius=5" alt="dazaid" /></p>
-<br><br>
-
