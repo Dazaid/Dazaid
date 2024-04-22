@@ -27,7 +27,11 @@
 <div>
   <a href="https://www.youtube.com/@Dazai_Dazaint/streams" target="_blank"><img height="40" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dazai.nt/" target="_blank"><img height="40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/FJ4bFecAQT" target="_blank"><img height="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+  <!-- Change discord for my web page, or create a bigger space for the link/ button or something else with my web page -->
+ <!--  <a href="#" target="_blank"><img height="40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
+
+  
   <a href="https://www.linkedin.com/in/leonardo-cadenas-b06338262/" target="_blank"><img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://ko-fi.com/https://ko-fi.com/leonardocadenas"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="https://ko-fi.com/leonardocadenas" /></a>
 </div>
