@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Cadenas</h1>
 <h3 align="center">An ambitious enthusiast beginner frontend developer (and artist too)</h3>
-<h3 align="center"> Link to my portfolio</h3>
+<h3 align="center">⬇ Link to my portfolio ⬇</h3>
 <h4 align="center">👉 https://leonardo-cadenas-portfolio-dzk.netlify.app/#Home 👈</h4>
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dazaid&show_icons=true&locale=en&layout=compact&theme=gruvbox&text_color=e33636&title_color=ffffff&html=ff2244&css=059eeb&js=059eeb&border_radius=5" alt="dazaid" />
