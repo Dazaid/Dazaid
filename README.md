@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leonardo Cadenas</h1>
+<h1 align="center"> Hi 👋, I'm Leonardo Cadenas </h1>
 <h3 align="center">An ambitious enthusiast beginner frontend developer (and artist too)</h3>
 <h3 align="center">⬇ Link to my portfolio ⬇</h3>
 <h4 align="center">👉 https://leonardo-cadenas-portfolio-dzk.netlify.app/#Home 👈</h4>
